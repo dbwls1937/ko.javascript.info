@@ -1,5 +1,5 @@
 
-You could note the following:
+주석을 참고해 어떤 점이 좋지 않은지 살펴봅시다.
 
 ```js no-beautify
 function pow(x,n)  // <- no space between arguments
@@ -23,7 +23,7 @@ else // <- could write it on a single line like "} else {"
 }
 ```
 
-The fixed variant:
+아래는 더 나은 스타일로 바꾼 코드입니다.
 
 ```js
 function pow(x, n) {
